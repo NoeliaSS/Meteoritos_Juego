@@ -5,7 +5,4 @@
 [node name="NivelTest" type="Node2D"]
 
 [node name="Player" parent="." instance=ExtResource( 1 )]
-position = Vector2( 492, 291 )
-
-[node name="Player2" parent="." instance=ExtResource( 1 )]
-position = Vector2( 491, 517 )
+position = Vector2( 491, 291 )
