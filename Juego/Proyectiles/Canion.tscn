@@ -18,3 +18,5 @@ velocidad_proyectil = 1600
 stream = ExtResource( 3 )
 
 [node name="TimerEnfriamineto" type="Timer" parent="."]
+
+[connection signal="timeout" from="TimerEnfriamineto" to="." method="_on_TimerEnfriamineto_timeout"]

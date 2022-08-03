@@ -122,7 +122,6 @@ color_ramp = SubResource( 13 )
 
 [sub_resource type="Animation" id=17]
 length = 3.0
-loop = true
 step = 0.05
 tracks/0/type = "value"
 tracks/0/path = NodePath("FireBurstParticles2D:emitting")
